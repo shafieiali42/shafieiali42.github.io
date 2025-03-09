@@ -394,8 +394,8 @@ ninja.data = [{
           description: "A collection of various computer vision algorithms",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-fine-tuning-clip-model-for-persian-language",
-          title: 'Fine-Tuning CLIP Model for Persian Language',
+            },},{id: "projects-persian-vlm",
+          title: 'Persian VLM',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
