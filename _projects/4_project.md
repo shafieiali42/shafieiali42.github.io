@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Fine-Tuning CLIP Model for Persian Language
+title: Persian VLM
 description: 
 img: assets/img/clip-model-6.png
 importance: 1

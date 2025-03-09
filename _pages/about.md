@@ -28,4 +28,4 @@ I recently completed my Bachelor’s degree in Computer Science at Sharif Univer
 
 During my undergraduate studies, I conducted research on diffusion models for text-to-image generation and vision-language Models. Prior to university, I was awarded a Bronze Medal in the National Mathematics Olympiad.
 
-I am currently looking for a Ph.D. position to continue my research journey. 
+<!-- I am currently looking for a Ph.D. position to continue my research journey.  -->
